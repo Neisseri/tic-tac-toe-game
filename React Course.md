@@ -43,7 +43,7 @@ For reference: [arrow functions](https://developer.mozilla.org/en-US/docs/Web/Ja
 
 ### Setup Option 2: Local Development Environment
 
-**Important!**😊
+**Important!** 😊
 
 Install `Node.js`
 
