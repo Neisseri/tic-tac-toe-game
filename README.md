@@ -1,3 +1,7 @@
+This repository is for learning React by building a small tic-tac-toe game.
+The React Course is on [this](https://reactjs.org/tutorial/tutorial.html).
+The following are the contents attached in the React Project itself.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
