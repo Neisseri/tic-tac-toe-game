@@ -6,6 +6,8 @@ The following are the contents attached in the React Project itself.
 
 **The `React Course.md` file is my notes for the tutorial.**
 
+The web page for this game is [here](https://neisseri.github.io/tic-tac-toe-game/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
