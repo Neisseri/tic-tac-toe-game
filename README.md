@@ -3,6 +3,7 @@ This repository is for learning React by building a small tic-tac-toe game.
 The React Course is on [this](https://reactjs.org/tutorial/tutorial.html).
 
 The following are the contents attached in the React Project itself.
+
 **The `React Course.md` file is my notes for the tutorial.**
 
 # Getting Started with Create React App
