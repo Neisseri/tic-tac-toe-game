@@ -279,7 +279,9 @@ Make it possible to "go back in time" to the previous moves in the game.
 
 
 
+# How to deploy the project on Github Page
 
+https://monsoir.github.io/Notes/React/react/react-github-pages.html
 
 
 
